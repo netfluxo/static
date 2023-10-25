@@ -1,2 +1,4 @@
-/site/* https://google.com/:splat 301
-/comprar/* https://exemplo.com/site-de-compras/:splat 301
+/jetsales/* https://www.jetsalesbrasil.com/ 301
+/youtube/* https://www.youtube.com/ 301
+/google/* https://www.google.com/ 301
+/discord/* https://www.discord.com/ 301
