@@ -1,3 +1,2 @@
 /site/* https://google.com/:splat 301
 /comprar/* https://exemplo.com/site-de-compras/:splat 301
-/* https://exemplo.com/outro-site/:splat 301
